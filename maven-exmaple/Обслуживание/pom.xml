@@ -17,18 +17,6 @@
     </properties>
     <dependencies>
         <dependency>
-            <artifactId>maven-exmaple</artifactId>
-            <groupId>org.example</groupId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <artifactId>maven-exmaple</artifactId>
-            <groupId>org.example</groupId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
             <groupId>org.example</groupId>
             <artifactId>db</artifactId>
             <version>1.0-SNAPSHOT</version>
